@@ -1,0 +1,23 @@
+html { 
+	background-image:url(praticeSiteWallpaper.jpeg);
+	background-attachment: fixed;
+	font-family: helvetica, verdana, ariel, sans-serif;
+	color: rgb(60,60,60);
+	font-size: 0.6em
+
+}
+
+h1.pageInfo {
+    font-size: 40px;
+    font-weight: bolder;
+    border-bottom: 1px solid rgb(60,60,60);
+    /* width: auto; */
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2.pageInfo{
+	font-variant:small-caps;
+	text-align:center; 
+	margin-top: 0;
+}
