@@ -2,8 +2,9 @@ html {
 	background-image:url(Assets/praticeSiteWallpaper.jpeg);
 	background-attachment: fixed;
 	font-family: helvetica, verdana, ariel, sans-serif;
-	color: rgb(60,60,60);
-	font-size: 0.6em
+	color: rgb(38,38,38);
+	font-size: 0.8em;
+    font-weight: bold;
 }
 
 body {
@@ -44,11 +45,11 @@ h2.pageInfo{
 
 #mainContent {
 	width: 600px;
+	margin-left:200px
 
 }
 
-
-li {
+#staticLeftDiv ul li {
 	display: block;
 	border-bottom: 1.6px solid black;
 	line-height: 3em;
