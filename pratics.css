@@ -9,8 +9,9 @@ html {
 
 body {
 	position: relative;
-	width: 940px;
-	height: 1200px;
+    margin: 0px auto;
+    padding-top: 30px;
+    height: 1200px;
 }
 
 h1.pageInfo {
@@ -34,7 +35,7 @@ h2.pageInfo{
 	font-size: 18px;
 	text-align: right;
 	color: BFBFBF;
-	padding: 0px 0px 0px 0px;
+	padding: 0px;
 	height: 1200px;
 
 }
@@ -44,9 +45,14 @@ h2.pageInfo{
 }
 
 #mainContent {
-	width: 600px;
+
+    width: 700px;
 	margin-left:200px
 
+}
+
+.sectionHeading {
+    font-size: 20px;
 }
 
 #staticLeftDiv ul li {
