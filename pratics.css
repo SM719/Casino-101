@@ -1,6 +1,8 @@
 html { 
 	background-image:url(Assets/praticeSiteWallpaper.jpeg);
 	background-attachment: fixed;
+	background-size: cover; /* this is money: if you want your background image to stretch */
+	background-repeat:no-repeat;
 	font-family: helvetica, verdana, ariel, sans-serif;
 	color: rgb(38,38,38);
 	font-size: 0.8em;
